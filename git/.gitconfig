@@ -1,0 +1,7 @@
+[user]
+	name = Adam Månsson
+	email = adam.s.mansson@gmail.com
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
