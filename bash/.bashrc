@@ -2,9 +2,9 @@ alias vi="nvim"
 
 ##-----------------------------------------------------
 ## synth-shell-greeter.sh
-if [ -f /home/adam/.config/synth-shell/synth-shell-greeter.sh ] && [ -n "$( echo $- | grep i )" ]; then
-	source /home/adam/.config/synth-shell/synth-shell-greeter.sh
-fi
+#if [ -f /home/adam/.config/synth-shell/synth-shell-greeter.sh ] && [ -n "$( echo $- | grep i )" ]; then
+#  source /home/adam/.config/synth-shell/synth-shell-greeter.sh
+#fi
 
 ##-----------------------------------------------------
 ## synth-shell-prompt.sh
